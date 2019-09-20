@@ -1,7 +1,7 @@
 # CQRSSampleAPP-
 This app is sample app to implement CQRS with RabbitmQ, Mongo and SQLLite
 
-App is followed from below blogs..
+App is followed from below blog..
 
 https://www.red-gate.com/simple-talk/dotnet/c-programming/getting-started-with-cqrs-part-1/
 
