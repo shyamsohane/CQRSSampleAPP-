@@ -28,6 +28,8 @@ namespace CQRSSampleApp.Controllers
         [HttpPost]
         public void Post([FromBody] string value)
         {
+           if (value.contains("x"))
+             return HttpStatus.Ok();
         }
 
         // PUT api/values/5
